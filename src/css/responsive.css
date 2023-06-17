@@ -1,47 +1,50 @@
-@media (max-width: 576px){
-    body{
+@media (max-width: 576px) {
+    body {
         background: url(../images/bg-mobile.svg) no-repeat;
+        background-size: contain;
         background-color: var(--background-color);
     }
 
-    .content{
+    .content {
         flex-direction: column;
         align-items: center;
         justify-content: center;
     }
 
-    .content .image img{
+    .content .image img {
         width: 300px;
     }
 
-    .content .info{
+    .content .info {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 0 20p;
+        padding: 0 20px;
     }
 
-    .content .info .title{
+    .content .info .title {
         text-align: center;
         font-size: 1.8rem;
         padding-top: 70px;
     }
 
-    .content .info .description{
+    .content .info .description {
         text-align: center;
         font-size: 1.3rem;
     }
 
-    .content .info .btn{
+    .content .info .btn {
         width: 17rem;
         text-align: center;
     }
 
-    .footer{
+    .footer {
         align-items: center;
         justify-content: center;
         gap: 20px;
         margin: 0;
+        padding-top: 3rem;
+        padding-bottom: 1rem;
     }
 }
