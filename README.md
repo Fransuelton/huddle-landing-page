@@ -24,6 +24,6 @@ Usei meus conhecimentos aprendidos nos módulos de HTML e CSS Avançado do Curso
 ```
 git clone url-do-repositorio
 ```
-2° Ou acesse o deploy do formulário [Clicando aqui](https://fransuelton.github.io/formulario-de-cadastro/).
+2° Ou acesse o deploy do formulário [Clicando aqui](https://fransuelton.github.io/huddle-landing-page/).
 
 ## Obrigado por visitar meu repositório!❤️
